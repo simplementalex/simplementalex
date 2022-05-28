@@ -1,8 +1,8 @@
-## Hi! I'm Alex 👋
+## Hi! I'm Alex 👋 :canada:
 
-- 🔭 Studying for a profesional vocational degree in IT Support
-    - 🌱 I’m currently learning basics of development
-    - 
+- :books: Studying for a profesional vocational degree in IT Support
+    -  :desktop_computer: I’m currently learning basics of development
+    - 🌱 Extracting the maximum from the Microsoft Build 2022
 
 ### Tasks
 - [x] Create a repository
