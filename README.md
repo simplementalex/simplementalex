@@ -10,4 +10,4 @@
 - [ ] Read the Quick Start with GitHub page
 
 ### Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=simplementalex)
