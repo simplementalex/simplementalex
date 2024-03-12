@@ -10,8 +10,8 @@ I'm passionate about technology
 
 ---
 
-- :briefcase: IT support specialist (3+ year)
-  - :mortar_board: Profesional vocational degree in IT Support
+- :briefcase: IT support specialist (3+ years)
+  - :mortar_board: Professional vocational degree in IT Support
   - 🖥️ Help Desk (Lvl 1 & 2)
 
 
