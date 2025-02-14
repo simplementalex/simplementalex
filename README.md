@@ -12,7 +12,7 @@ I'm passionate about technology.
 
 - :briefcase: IT specialist | 4+ years | 2020-2025
   - :mortar_board: Professional vocational degree as IT Support Specialist (2 years)
-  - 📞: Help Desk L1-L2
+  - 📞 Help Desk L1-L2
   - 🖥️ Junior System Administrator
   - :office: Junior Network Administrator
 
